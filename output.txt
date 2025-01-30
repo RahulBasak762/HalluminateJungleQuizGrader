@@ -1,0 +1,37 @@
+[4, 2, 11, 8, 5, 84]
+
+1. (Count = 4) Answer choices are repeated or duplicated
+    -Only choose this if there is an answer choice which appears 2 or more times in the answer choices explicitly
+2. (Count = 2) The answer choices do not align with the implied format or level of detail suggested by the question
+    -Example: Name 3 factors which contributed to increased immigration. --> Answer choices (1. Single Factor, 2. Single Factor, 3. Single Factor, 4. Single Factor)
+        -Reasoning: The question asked for 3 factors, but the answer choices only gave one each.
+    -Only choose this category if there is an explicit format expected in the answer choices, and if this format is explicitly not met
+3. (Count = 11) The question asks about details on a particular subject, but the marked correct answer is simply the subject itself
+    -Only choose this category if the question asks for details about a subject, but the correct answer is simply the subject itself
+    -Example: Question: What is empathic reflection, and how is it applied in therapy?
+                Answer Choices: 
+                Empathic confrontation
+                Cognitive restructuring 
+                Behavioral activation 
+                Empathic reflection
+4. (Count = 8) No correct answer choice is provided among the options
+    -Only choose this answer if given the context, none of the provided choices answer the question correctly
+    -Check thorugh all of the context to detirmine the right answer explicity to ensure that there truly is no correct answer given
+5. (Count = 5) The question answer is excessively obvious due to format 
+    -Only choose this if and only if the correct answer is made excessively clear due to either the phrasing of question or its answers. 
+    -Example:  Question: What is the self-discrepancy theory proposed by Tory Higgins?
+                Answer Choices: 
+                Self-verification theory: people want to be known according to their self-views
+                Cognitive dissonance theory: discomfort from conflicting beliefs or attitudes
+                Self-perception theory: inferring attitudes from behavior and context
+                Self-discrepancy theory: beliefs about actual, ideal, and ought selves
+            This is incorrect because the phrasing of the answer choices itself makes the correct answer excessivly obvious
+    -Example: Question: What are the three main factors related to patient satisfaction with health care?
+                Answer Choices: 
+                The availability of hospital amenities
+                The cost of treatment
+                The speed of service delivery
+                The technical quality of treatment, the quality of interaction with practitioner, a sense of autonomy (correct one)
+            This is incorrect due to all the incorrect answers having one factor, but the correct one having all 3as specified by the question
+6. (Count = 84)The question and answers demonstrate no significant flaws or issues
+    -Only choose this if none of the other errors are present
