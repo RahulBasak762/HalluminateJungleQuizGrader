@@ -47,7 +47,7 @@ def organizeCard(card):
 if __name__ == "__main__":
     data = parse_json_data('cards_from_random_downvoted_cards_20250123_145929_without_understanding_ratings_for_card_by_user.json')
     counts = [0] * 6
-    client = Groq(api_key="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")
+    client = Groq(api_key="")
     cards = {}
 
     for index, card in enumerate(data):
